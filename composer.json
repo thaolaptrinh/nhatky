@@ -1,0 +1,19 @@
+{
+  "name": "thaodev/nhatky",
+  "description": "ss",
+  "autoload": {
+    "psr-4": {
+      "App\\Core\\": "app/core",
+      "App\\Controllers\\": "app/controllers",
+      "App\\Configs\\": "app/configs",
+      "App\\Models\\": "app/models"
+    }
+  },
+  "authors": [
+    {
+      "name": "Thao DEV",
+      "email": "thaolaptrinh@gmail.com"
+    }
+  ],
+  "require": {}
+}
